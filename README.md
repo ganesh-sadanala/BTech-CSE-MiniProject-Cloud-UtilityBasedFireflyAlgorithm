@@ -2,8 +2,6 @@
 
 ## Contributors
 
-### Ganesh Sadanala
-
-### Manishankar Bellapukonda
-
-### Abhinay Kanduri
+[Ganesh Sadanala](https://github.com/ganesh-sadanala)
+[Manisankar Bellapukonda](https://github.com/bmanishankar)
+[Abhinay Kanduri](https://github.com/kanduri-abhinay)
